@@ -3,8 +3,8 @@ SpreeSimpleSales
 
 I'm still working on it!!!!!!!
 
-This extension provides the possibility to add sales to the products. So in this way you coulse show in the shop the old price and the new price.
-For this purpose I added a method in the base_helper, called 'display_original_price' that let you show the old price. 
+This extension provides the possibility to add sales to the products. So in this way you could show in the shop the old price and the new price.
+For this purpose I added a method in the base_helper, called 'display_original_price' that let you show the old price.
 
 
 Dependencies
