@@ -11,7 +11,7 @@ Dependencies
 
 This gem uses other personal gem:
 
-gem "spree_sorting_products", :git => "https://github.com/sylvinho81/spree_variant_options.git", :branch => '3-0-stable'
+gem "spree_variant_options", :git => "https://github.com/sylvinho81/spree_variant_options.git", :branch => '3-0-stable'
 
 
 Install
