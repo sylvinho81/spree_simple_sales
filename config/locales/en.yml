@@ -1,0 +1,4 @@
+en:
+  spree:
+    sale_price: 'Sale Price'
+    allow_sales: 'Usar precios rebajados'
